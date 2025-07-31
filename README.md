@@ -34,8 +34,8 @@ A PyTorch implementation of multi-task learning using transformer architecture f
 ### Setup
 
 ```bash
-git clone <repository-url>
-cd multitask-transformer
+git clone https://github.com/ibrahimkhanrndev/sentence-transformer.git
+cd sentence-transformer
 pip install torch numpy tqdm transformers
 ```
 
